@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://distyclot.github.io/sitemap
+Sitemap: https://distyclot.github.io/app/sitemap
+Sitemap: https://distyclot.github.io/assets/sitemap
+Sitemap: https://distyclot.github.io/css/sitemap
+Sitemap: https://distyclot.github.io/includes/sitemap
+Sitemap: https://distyclot.github.io/item/sitemap
+Sitemap: https://distyclot.github.io/src/sitemap
